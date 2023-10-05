@@ -1,0 +1,15 @@
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\bin\Debug\net6.0\PrimerHolaMundo.exe
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\bin\Debug\net6.0\PrimerHolaMundo.deps.json
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\bin\Debug\net6.0\PrimerHolaMundo.runtimeconfig.json
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\bin\Debug\net6.0\PrimerHolaMundo.dll
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\bin\Debug\net6.0\PrimerHolaMundo.pdb
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\PrimerHolaMundo.csproj.AssemblyReference.cache
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\PrimerHolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\PrimerHolaMundo.AssemblyInfoInputs.cache
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\PrimerHolaMundo.AssemblyInfo.cs
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\PrimerHolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\PrimerHolaMundo.dll
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\refint\PrimerHolaMundo.dll
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\PrimerHolaMundo.pdb
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\PrimerHolaMundo.genruntimeconfig.cache
+C:\Users\karla\OneDrive\Escritorio\rueba\PrimerHolaMundo\obj\Debug\net6.0\ref\PrimerHolaMundo.dll
