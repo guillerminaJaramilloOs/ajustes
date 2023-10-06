@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: 'D:\a\1\s\**\*.sln'
+  solution: 'D:\a\1\s\PrimerHolaMundo.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
